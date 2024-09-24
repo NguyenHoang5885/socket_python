@@ -1,2 +1,2 @@
-# socket_python
+# Socket_python
 Connect master to client by socket_python
